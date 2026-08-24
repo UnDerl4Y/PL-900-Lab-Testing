@@ -2,7 +2,7 @@
 
 Testing and validating PL-900 Microsoft Power Platform Fundamentals labs against the current Power Platform experience.
 
-**By:** [@udaycodespace](https://github.com/udaycodespace)
+**By:** [@uday-meteoros](https://github.com/uday-meteoros)
 
 ## Objective
 
